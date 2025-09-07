@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Artificial Intelligence, Machine Learning**, and **Data Science**
-- 👩‍💻 Check out my projects on [GitHub Projects]([https://github.com/pokalevaishnavi?tab=projects](https://github.com/pokalevaishnavi/Projects))
+- 👩‍💻 Check out my projects on [GitHub Projects](https://github.com/pokalevaishnavi/Projects)
 - 📫 Reach me at **vaishnavpokale21@gmail.com**
 - 📄 View my [Resume](https://drive.google.com/file/d/1tcggqOpYrbJyyWbAjNNj087IxCvow1Vp/view?usp=drive_link)
 
